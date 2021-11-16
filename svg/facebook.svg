@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_123" data-name="Ellipse 123" cx="25" cy="25" r="25" transform="translate(1095 1167)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2022" data-name="Group 2022" transform="translate(-1055 -1170)">
+    <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(-40 3)" clip-path="url(#clip-path)">
+      <g id="Group_1984" data-name="Group 1984" transform="translate(-69.371 -136.204)">
+        <ellipse id="Ellipse_116" data-name="Ellipse 116" cx="24.324" cy="24.324" rx="24.324" ry="24.324" transform="translate(1160.371 1346.55) rotate(-76.717)" fill="#3c5a99"/>
+        <path id="Path_208" data-name="Path 208" d="M197.245,290.965v14.9a.389.389,0,0,0,.388.388h5.532a.388.388,0,0,0,.388-.388v-15.14h4.011a.388.388,0,0,0,.386-.355l.386-4.562a.388.388,0,0,0-.387-.421h-4.4v-3.236a1.374,1.374,0,0,1,1.374-1.374h3.091a.388.388,0,0,0,.388-.388v-4.562a.388.388,0,0,0-.388-.388h-5.223a5.55,5.55,0,0,0-5.55,5.55v4.4h-2.766a.388.388,0,0,0-.388.388v4.562a.388.388,0,0,0,.388.388h2.766Z" transform="translate(988.356 1037.776)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
